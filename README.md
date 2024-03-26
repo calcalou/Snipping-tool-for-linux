@@ -29,9 +29,16 @@ And add this :
   "Path/to/your/file.sh"
       mod4+shift + s
 ```
+When done, Apply changes :
+
+```https 
+  # xbindkeys -p
+```
 
 ### Make sure you have download "xclip" : 
 
 ```https
   # sudo apt-get install xclip
 ```
+
+
