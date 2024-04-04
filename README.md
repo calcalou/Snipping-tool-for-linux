@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Calcalou</h1>
-<h3 align="center">MatchUp2.0 Project Init :</h3>
+<h3 align="center">Sniping Tools For Linux :</h3>
 
 ## Command clone project :
 
